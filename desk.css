@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Fredoka&family=Hurricane&family=Yanone+Kaffeesatz:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Jost:wght@200&family=Outfit:wght@300&family=Patrick+Hand&family=Poiret+One&display=swap');
+
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+
+}
+button{
+    font-family: 'Jost', sans-serif;
+
+}
+.title{
+    position: absolute;
+    left: 0px;
+    top:4px;
+    padding-left: 120px;
+    
+   ;
+
+}
+.md{
+     color:#ffb120;
+     padding-right: 2px;
+}
+.navbar-brand{
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+
+}
+#menu{
+    padding-left:10px;
+    padding-right: 10px;
+
+}
+.nav{
+    text-align: center;
+    text-decoration: ;
+    color: black;
+    background-color: ;
+
+}
+.nav a{
+    padding-left: 12%;
+    color:black;
+
+} 
+
+#priest{
+    font-family: 'Poppins', sans-serif;
+    transition: 0.3s;
+}
+#priest:hover{
+    color:rgb(255, 255, 255);
+}
+
+
+.book_ticket_title{
+        text-align: center;
+        justify-content: center;
+        margin:12px 0px;
+
+}
+.img{
+height:100vh;
+width:100%;
+
+}
+#para{
+    
+    height:auto;
+    position:absolute;
+    left:700px;
+    top:200px;
+}
+
+
+#text{
+    font-size:500%;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+}
+
+.wesite{
+    font-family: 'Jost', sans-serif;
+
+
+}
+
+.find_tour{
+        text-align: center;
+        font-family: 'Jost', sans-serif;
+        font-weight: bolder;
+        
+}
+.tour_form{
+    background-color: #faf5f5;
+    width: 30rem;
+    border: rgb(69, 67, 67);
+    border-style: solid;
+    margin-top: -35rem;
+    margin-left: 48rem;
+    padding:12px 83px 20px;
+
+
+    
+}
+#our_tour p{
+    font-family: 'Jost', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+.tour_form p{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: 'Jost', sans-serif;
+    padding: 0px;
+    margin: 0px;
+
+}
+#select{
+    outline:0;
+    width: 320px;
+    height: 37px;
+    background-color: transparent;
+    font-family: 'Jost', sans-serif;
+    border-width: 0 0 2px;
+    margin-bottom: 5.5px;
+    
+}
+
+#select:focus{
+    border-color: black;
+}
+.btn1{
+    width: 320px;
+    height: 37px;
+    border:none;
+    border-radius: 25px;
+    background-color:#fda706;
+    font-family: 'Jost', sans-serif;
+    font-weight: bold;
+    font-size: large;
+    transition:0.7s;
+}
+
+.btn1:hover{
+
+    background-color: rgb(131, 127, 127);
+    color: white;
+
+}
+#hr{
+    opacity: 10%;
+    color: #c2c2c2;
+}
+
+#river{
+    width:10%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.btn2{
+    width: 180px;
+    height: 40px;
+    border:none;
+    border-radius:30px;
+    background-color:#fda706;
+    transition:0.7s;
+    margin-left:43.5%;
+    font-family: 'Jost', sans-serif;
+    font-weight: bold;
+    font-size: large;
+
+}
+.btn2:hover{
+    background-color: rgb(131, 127, 127);
+    color: white;
+} 
+
+
+.tour_images{
+    padding-top: 10px;
+    box-sizing: border-box;
+
+}  
+
+
+#img{
+    width: 33%;
+    height: 20rem;
+    padding:5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+#img:hover{
+        opacity: 80%;
+}
+#our_services{
+    margin: 0px;
+    padding: 0px;
+    background-color: #faf5f5;
+}
+.box{
+    display: flex;
+    padding:12px;
+    
+
+
+}
+.airticket{
+    border:2px solid black;
+    padding:34px;
+    margin:5px;;
+    margin-right:50px;
+    width:50%;
+    border-color:rgba(173, 175, 176, 0.788) ;
+    border-radius:8px;
+    transition: 0.5s;
+
+}
+.airticket:hover{
+    background-color: rgb(218, 218, 218);
+
+
+}
+
+#contact{
+            
+            background-color: #faf5f5;
+            text-align: center;
+            margin: 9px;
+            padding:20px;
+            height: auto;
+            margin-bottom: 5px;
+        }
+
+.contact_image img{
+
+            width:40%;
+            height:28rem;
+            justify-content: left;
+            display: flex;
+            flex-direction: left;
+
+}
+
+
+
+.form{
+        padding: 50px;
+        margin: -400px 20px 50px 700px ;
+        background-color: #faf5f5;
+        display: flex;
+        flex-direction: column;
+        height:auto;
+        border-radius: 0%;
+        border: black;
+        border-style: solid;
+
+
+    }
+
+
+.input{
+    font-family: 'Jost', sans-serif;
+    color: black;
+    font-weight: bold;
+
+}
+
+.input_box{
+        outline: 0;
+        border-radius: none;
+        height: 35px;
+        background-color: transparent;
+        border-width: 0 0 2px;
+
+}
+
+.input_box:focus{
+            border-color: black;
+}
+
+.contact_btn{
+
+        padding: 5px;
+        margin: 40px 0px 0px 63px;
+        width: 300px;
+        height: auto;
+        background-color:#fda706;
+        border:none;
+        border-radius: 25px;
+        justify-content: center;
+        transition: 0.7s;
+
+}
+
+.contact_btn:hover{
+    background-color: rgb(131, 127, 127);
+    color: white;
+    border:1px #fda706;
+
+
+}
+
+
+.footer_container{
+            
+    
+    flex-direction: column;
+    position: absolute;
+    bottom: -100px;
+    
+}
